@@ -30,5 +30,6 @@ foreach ($s in $screen) {
     $window.Show()
 }
 
+while ($true) {
 
-
+}
